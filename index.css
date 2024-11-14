@@ -1,0 +1,16 @@
+body{
+    font-size: larger;
+}
+
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    min-width: 200px;
+    
+}
+
+table{
+    margin-left: 20px;
+}
